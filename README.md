@@ -64,4 +64,4 @@ Contributions are welcome! To contribute:
 This project is licensed under the [MIT License](LICENSE).
 
 ## About the Developer
-Hi, I'm Vivek (Vicky), a full-stack web developer passionate about building web applications. This project was built in 2022 as part of my learning journey. Check out my other projects on GitHub and consider leaving a ⭐ if you find this project helpful!
+Hi, I'm Vivek Chandra Pandey (Vicky), a full-stack web developer passionate about building web applications. This project was built in 2022 as part of my learning journey. Check out my other projects on GitHub and consider leaving a ⭐ if you find this project helpful!
