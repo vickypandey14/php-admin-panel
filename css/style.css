@@ -1,16 +1,12 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900,100italic,300italic,400italic);
 @import url(https://fonts.googleapis.com/css?family=Oswald:700,400,300);
-/****************************
-*   FOR RESPONSIVENESS      *
-****************************/
+
 ::selection {
   background: #4f5362;
-  /* WebKit/Blink Browsers */
   color: #fff;
 }
 ::-moz-selection {
   background: #4f5362;
-  /* Gecko Browsers */
   color: #fff;
 }
 html {
@@ -32,9 +28,6 @@ html {
     margin-bottom: 1.8em;
   }
 }
-/****************************
-*      BODY DEFAULTS        *
-****************************/
 body {
   font-size: 1em;
 }
@@ -45,9 +38,6 @@ a:hover {
   text-decoration: none;
   color: #5db9d1;
 }
-/****************************
-*      Buttons        *
-****************************/
 .btn {
   font-family: 'Oswald', sans-serif;
 }
@@ -90,9 +80,6 @@ a:hover {
   color: #fff;
   background: #2c849c;
 }
-/****************************
-*      Background Colors        *
-****************************/
 .bk-primary {
   background: #325d88;
 }
@@ -156,15 +143,9 @@ a:hover {
 .panel {
   overflow: hidden;
 }
-/****************************
-*      Border        *
-****************************/
 .brdr {
   border: 1px solid #f0f0f0;
 }
-/****************************
-*      Text size color        *
-****************************/
 .font-one {
   font-family: 'Oswald', sans-serif;
 }
@@ -222,9 +203,6 @@ a:hover {
   padding-bottom: 10px;
   border-bottom: 3px solid #222;
 }
-/****************************
-*       Margins         *
-****************************/
 .mt {
   margin-top: 18px;
 }
@@ -298,9 +276,6 @@ a:hover {
 .block-anchor {
   display: block;
 }
-/****************************
-*       Content Typography         *
-****************************/
 .content-format {
   line-height: 1.6em;
   font-weight: 400;
@@ -459,18 +434,12 @@ a:hover {
   background: none !important;
   padding: 0 !important;
 }
-/*
- * Theme Struck - Harmony - Free responsive Bootstrap admin template by Themestruck.com (http://themestruck.com)
- * Code licensed under the MIT
- * For details, see #
- */
 ul,
 li {
   margin: 0;
   padding: 0;
   list-style: none;
 }
-/* Social Button Modifications */
 .btn {
   text-transform: none;
 }
