@@ -1,4 +1,4 @@
-# PHP Admin Panel
+# PHP Admin Panel - Content Management System
 
 A simple admin panel built with **PHP** and **MySQL**, created as a learning project during my full-stack development journey in 2022. This was my first backend project, designed to manage users and content through a web-based interface.
 
@@ -13,7 +13,7 @@ A simple admin panel built with **PHP** and **MySQL**, created as a learning pro
 - **PHP**: Server-side scripting for backend logic.
 - **MySQL**: Relational database for data storage.
 - **HTML/CSS**: Frontend structure and styling.
-- **JavaScript**: Basic interactivity (e.g., form validation).
+- **JavaScript/jQuery**: Basic interactivity (e.g., form validation).
 
 ## Prerequisites
 To run this project locally, you need:
